@@ -96,3 +96,19 @@ legend{
     opacity:0;
   }
 }
+
+.footer{
+  background: #333;
+  position: fixed;
+  left: 25%;
+  bottom: 0;
+  width: 50%;
+  color: white;
+  text-align: center;
+  }
+
+.footer-content{
+  color: #fff;
+  font-size: 20px;
+  z-index: 2;
+}

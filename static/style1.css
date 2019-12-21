@@ -84,7 +84,7 @@ c{
   width: 90%;
   text-align: center;
   color: white;
-  
+
   border: 2px solid white;
   padding: 15px;
 
@@ -126,4 +126,20 @@ width:100%;
 }
 input{
   padding:4px;
+  }
+
+.footer{
+    background: #333;
+    position: fixed;
+    left: 25%;
+    bottom: 0;
+    width: 50%;
+    color: white;
+    text-align: center;
+    }
+
+.footer-content{
+    color: #fff;
+    font-size: 20px;
+    z-index: 2;
   }
